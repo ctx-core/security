@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/security",
-	"version": "3.1.29",
+	"version": "3.1.30",
 	"description": "ctx-core security",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/logger": "^3.1.14",
-		"@ctx-core/object": "^8.0.9"
+		"@ctx-core/object": "^8.0.10"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"
