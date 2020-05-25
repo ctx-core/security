@@ -2,6 +2,7 @@
 	"name": "@ctx-core/security",
 	"version": "3.1.30",
 	"description": "ctx-core security",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
