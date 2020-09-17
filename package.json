@@ -1,39 +1,39 @@
 {
-	"name": "@ctx-core/security",
-	"version": "3.1.64",
-	"description": "ctx-core security",
-	"keywords": [
-		"ctx-core",
-		"security"
-	],
-	"homepage": "https://github.com/ctx-core/security#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/security/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/security/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"@ctx-core/object": "workspace:*"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "1dc392469ee6eb4411d1825499887bb22274bc38"
+  "name": "@ctx-core/security",
+  "version": "3.1.65",
+  "description": "ctx-core security",
+  "keywords": [
+    "ctx-core",
+    "security"
+  ],
+  "homepage": "https://github.com/ctx-core/security#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/security/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/security/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "@ctx-core/object": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "1dc392469ee6eb4411d1825499887bb22274bc38"
 }
