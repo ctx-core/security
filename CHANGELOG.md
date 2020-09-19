@@ -1,5 +1,16 @@
 # @ctx-core/security
 
+## 4.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.0
+
 ## 3.1.66
 
 ### Patch Changes

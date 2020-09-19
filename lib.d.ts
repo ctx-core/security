@@ -1,1 +1,1 @@
-export declare function pick__whitelist(ctx: any, ...keys: any[]): {};
+export declare function pick__whitelist(ctx: any, ...keys: any[]): any;
