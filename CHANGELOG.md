@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 4.0.30
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.10
+
 ## 4.0.29
 
 ### Patch Changes
