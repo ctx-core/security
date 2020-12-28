@@ -1,5 +1,11 @@
 # @ctx-core/security
 
+## 4.1.0
+
+### Minor Changes
+
+- pick_whitelist as pick\_\_whitelist
+
 ## 4.0.30
 
 ### Patch Changes
