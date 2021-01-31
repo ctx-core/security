@@ -1,5 +1,16 @@
 # @ctx-core/security
 
+## 5.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.0.0
+
 ## 4.1.13
 
 ### Patch Changes
