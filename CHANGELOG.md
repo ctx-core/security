@@ -1,5 +1,11 @@
 # @ctx-core/security
 
+## 5.0.3
+
+### Patch Changes
+
+- @ctx-core/object@17.0.3
+
 ## 5.0.2
 
 ### Patch Changes
