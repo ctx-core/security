@@ -1,5 +1,12 @@
 # @ctx-core/security
 
+## 5.0.10
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.0.10
+
 ## 5.0.9
 
 ### Patch Changes
