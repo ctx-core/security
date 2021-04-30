@@ -1,5 +1,11 @@
 # @ctx-core/security
 
+## 5.0.34
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.33
 
 ### Patch Changes
