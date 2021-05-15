@@ -1,5 +1,16 @@
 # @ctx-core/security
 
+## 5.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.0
+
 ## 5.0.38
 
 ### Patch Changes
