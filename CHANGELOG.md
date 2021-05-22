@@ -1,5 +1,11 @@
 # @ctx-core/security
 
+## 5.1.6
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.1.5
 
 ### Patch Changes
