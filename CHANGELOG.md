@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 5.3.6
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.1.3
+
 ## 5.3.5
 
 ### Patch Changes
