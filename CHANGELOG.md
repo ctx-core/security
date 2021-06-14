@@ -1,5 +1,16 @@
 # @ctx-core/security
 
+## 6.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.0
+
 ## 5.3.9
 
 ### Patch Changes
