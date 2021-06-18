@@ -1,1 +1,0 @@
-{"version":3,"file":"pick_whitelist.js","sourceRoot":"","sources":["../pick_whitelist.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,kBAAkB,CAAA;AACvC,MAAM,UAAU,cAAc,CAA4B,GAAK,EAAE,GAAG,IAAa;IAChF,OAAO,IAAI,CAAI,GAAG,EAAE,GAAG,IAAI,CAAC,CAAA;AAC7B,CAAC;AACD,OAAO,EACN,cAAc,IAAI,eAAe,EACjC,CAAA"}
