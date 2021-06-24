@@ -1,5 +1,11 @@
 # @ctx-core/security
 
+## 6.0.8
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.0.7
 
 ### Patch Changes
