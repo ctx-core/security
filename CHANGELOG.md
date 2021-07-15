@@ -1,5 +1,16 @@
 # @ctx-core/security
 
+## 7.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.0
+
 ## 6.0.18
 
 ### Patch Changes
