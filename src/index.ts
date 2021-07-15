@@ -1,1 +1,1 @@
-export * from './pick_whitelist'
+export * from './pick_whitelist.js'
