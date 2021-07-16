@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.8
+
 ## 7.0.6
 
 ### Patch Changes
