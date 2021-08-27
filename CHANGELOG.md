@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.0.13
+
+### Patch Changes
+
+- typescript: ^4.3.5 -> ^4.4.2
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.17
+
 ## 7.0.12
 
 ### Patch Changes
