@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.0.21
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+- Updated dependencies
+  - @ctx-core/object@21.0.27
+
 ## 7.0.20
 
 ### Patch Changes
