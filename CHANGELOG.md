@@ -1,5 +1,14 @@
 # @ctx-core/security
 
+## 7.0.26
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.0.0
+
 ## 7.0.25
 
 ### Patch Changes
