@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.0.29
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/object@22.0.3
+
 ## 7.0.28
 
 ### Patch Changes
