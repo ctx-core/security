@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.0.33
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/object@22.0.7
+
 ## 7.0.32
 
 ### Patch Changes
