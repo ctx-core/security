@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.0.38
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/object@22.0.12
+
 ## 7.0.37
 
 ### Patch Changes
