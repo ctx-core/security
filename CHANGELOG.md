@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.0.42
+
+### Patch Changes
+
+- fix: @ctx-core/\* dependencies
+- Updated dependencies
+  - @ctx-core/object@22.1.5
+
 ## 7.0.41
 
 ### Patch Changes
