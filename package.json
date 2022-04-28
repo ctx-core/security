@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/security",
-	"version": "7.0.44",
+	"version": "7.0.45",
 	"description": "ctx-core security",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^22.1.8"
+		"@ctx-core/object": "^22.1.9"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
