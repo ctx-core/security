@@ -1,5 +1,12 @@
 # @ctx-core/security
 
+## 7.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+- - whitelist\_\_pick: aliased by pick_whitelist
+
 ## 7.0.66
 
 ### Patch Changes
