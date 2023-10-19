@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.1.67
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/object@28.2.1
+
 ## 7.1.66
 
 ### Patch Changes
