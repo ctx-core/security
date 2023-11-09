@@ -1,5 +1,11 @@
 # @ctx-core/security
 
+## 7.1.70
+
+### Patch Changes
+
+- @ctx-core/object: ^29.0.0 -> ^29.1.0
+
 ## 7.1.69
 
 ### Patch Changes
