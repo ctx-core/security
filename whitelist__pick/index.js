@@ -1,7 +1,7 @@
 import { pick } from '@ctx-core/object'
 /**
- * @param whitelist_o{object}
- * @param keys{string}
+ * @param {object}whitelist_o
+ * @param {string}keys
  * @returns {Partial<*>}
  */
 export function whitelist__pick(whitelist_o, ...keys) {
