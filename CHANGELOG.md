@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.2.55
+
+### Patch Changes
+
+- consolidate dependencies
+- Updated dependencies
+  - ctx-core@5.1.0
+
 ## 7.2.54
 
 ### Patch Changes

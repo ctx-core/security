@@ -1,4 +1,4 @@
-import { pick } from '@ctx-core/object'
+import { pick } from 'ctx-core/object'
 /**
  * @param {object}whitelist_o
  * @param {string}keys
