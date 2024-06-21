@@ -1,5 +1,11 @@
 # @ctx-core/security
 
+## 7.2.196
+
+### Patch Changes
+
+- ctx-core: ^7.2.22 -> ^7.2.23
+
 ## 7.2.195
 
 ### Patch Changes
