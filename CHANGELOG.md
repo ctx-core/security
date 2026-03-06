@@ -1,5 +1,13 @@
 # @ctx-core/security
 
+## 7.2.207
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 7.2.206
 
 ### Patch Changes
